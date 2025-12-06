@@ -1,6 +1,6 @@
 # Vehicle-Detection-Counting-Yolo11
 
-## 📌 Project Overview
+## Project Overview
 This project implements a vehicle detection and counting system using YOLOv11 object detection and tracking. The system processes video footage, detects vehicles (cars, buses, trucks, motorcycles, bicycles, and trains), tracks them across frames, and counts the number of vehicles crossing a predefined virtual line.
 
 ## 📌 Demo
